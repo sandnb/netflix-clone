@@ -1,0 +1,49 @@
+.banner{
+  
+   background-size:cover;
+   height:31vw;
+   color:white;
+   
+}
+
+.content{
+    padding-top:9vw;
+    height:9.5vw;
+    padding-left:1.8vw;
+}
+.title{
+    font-size:2.5vw;
+    font-weight:800vw;
+    padding-bottom:0.3vw;
+}
+.button{
+    color:white;
+    outline:none;
+    border:none;
+    font-weight: 90vw;
+    border-radius:.25vw;
+    padding-left:0.5vw;
+    padding-right:0.5vw;
+    padding-top:0.95vw;
+    padding-bottom:0.25vw;
+    background-color:rgba(92, 92, 83, 0.5);
+    cursor:pointer;
+    margin-right:0.5vw;
+    font-size: 1vw;
+}
+.button:hover{
+    color:black;
+    background-color:#e6e6e6;
+}
+.description{
+    width:40vw;
+    line-height:1.1vw;
+    padding-top:1vw;
+    font-size:0.8vw;
+    max-width:25vw;
+    text-align:justify;
+}
+.fade_bottom{
+    height:12.8vw;
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgb(15 15 15));
+}
